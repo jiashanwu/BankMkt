@@ -1,0 +1,1 @@
+In this repository, I experiment several machine learning/deep learning models on a direct marketing campaign datasets. The details of the dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing).
